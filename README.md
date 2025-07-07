@@ -7,7 +7,7 @@
 
 ----
 
-#### 🧋 Tech stack
+#### 🧋 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,go,kotlin)](https://skillicons.dev)
 

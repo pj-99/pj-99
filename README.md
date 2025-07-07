@@ -7,17 +7,11 @@
 
 ----
 
-#### Tech stack
+#### 🧋 Tech stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,go,kotlin" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,go,kotlin)](https://skillicons.dev)
 
+<p></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,git,figma,unity,androidstudio" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,git,figma,unity)](https://skillicons.dev)
+

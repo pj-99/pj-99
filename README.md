@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, I'm pj. 
+
 
 <!--
 **pj-99/pj-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning system design and backend development.
+- 🛠️ I'm currently working on my [website](https://pjdev.me/) — feel free to check it out as it evolves.
+- 👾 I have experience working across Android, Unity, and VR development.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pinchiehchen) or [email](mailto:pj99dev@gmail.com) me.
+

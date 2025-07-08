@@ -14,4 +14,4 @@
 
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,git,figma,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,git,figma,unity,redis)](https://skillicons.dev)
